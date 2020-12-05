@@ -1,5 +1,5 @@
 # Express_note_taking_app
-An express app that can be used to write, create, save, and delete notes. 
+An express app that can be used to write, create, save, and delete notes. It uses express to handle all the requests from the client as well as handling responses back to the client. The app is stored on heroku so that our server code can run. Node was used to create the server.
 
 # Table of contents
 
