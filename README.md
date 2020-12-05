@@ -20,7 +20,7 @@ Using the app is pretty simple. Start typing out a note and once your finished a
 
 ![Screen Capture of App](./assets/screen_capture.gif)
 
-You can use the app by clicking [here]()
+You can use the app by clicking [here](https://sleepy-cliffs-14959.herokuapp.com/)
 
 # Questions
 
